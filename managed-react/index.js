@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var ManagedReact_1 = require("./src/ManagedReact");
+var ManagedReact_2 = require("./src/ManagedReact");
+exports.ManagedReact = ManagedReact_2.ManagedReact;
+exports.default = ManagedReact_1.ManagedReact;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUFBLG1EQUFrRDtBQUNsRCxtREFBa0Q7QUFBekMsc0NBQUEsWUFBWSxDQUFBO0FBQ3JCLGtCQUFlLDJCQUFZLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBNYW5hZ2VkUmVhY3QgfSBmcm9tICcuL3NyYy9NYW5hZ2VkUmVhY3QnO1xyXG5leHBvcnQgeyBNYW5hZ2VkUmVhY3QgfSBmcm9tICcuL3NyYy9NYW5hZ2VkUmVhY3QnO1xyXG5leHBvcnQgZGVmYXVsdCBNYW5hZ2VkUmVhY3QiXX0=
